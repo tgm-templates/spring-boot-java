@@ -12,7 +12,7 @@
       "description": "Maven artifactId"
     },
     {
-      "java_version": "javaVersion",
+      "name": "javaVersion",
       "value": "15",
       "description": "Java Version"
     }
