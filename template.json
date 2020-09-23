@@ -1,0 +1,23 @@
+{
+  "name": "spring-boot-java",
+  "repository": "https://github.com/linux-china/spring-boot-java-template",
+  "description": "Spring Boot App with Java",
+  "variables": [
+    {
+      "name": "groupId",
+      "description": "Maven groupId"
+    },
+    {
+      "name": "artifactId",
+      "description": "Maven artifactId"
+    },
+    {
+      "java_version": "javaVersion",
+      "value": "15",
+      "description": "Java Version"
+    }
+  ],
+  "files": [
+    "pom.xml"
+  ]
+}
