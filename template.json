@@ -1,6 +1,6 @@
 {
   "name": "spring-boot-java",
-  "repository": "https://github.com/linux-china/spring-boot-java-template",
+  "repository": "https://github.com/tgm-templates/spring-boot-java",
   "description": "Spring Boot App with Java",
   "variables": [
     {
