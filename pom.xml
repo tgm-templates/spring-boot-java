@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>@javaVersion@</java.version>
-        <spring-boot.version>2.4.3</spring-boot.version>
+        <spring-boot.version>2.4.4</spring-boot.version>
         <junit5.version>5.7.1</junit5.version>
     </properties>
 
